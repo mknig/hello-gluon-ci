@@ -55,7 +55,7 @@ public class HelloGluonApp extends MobileApplication {
             imageView.setFitHeight(200);
             imageView.setPreserveRatio(true);
 
-            Label label = new Label("Hello, Gluon Mobile - Mfakt!");
+            Label label = new Label("Hello, Gluon Mobile - Mfakt & Sven!");
             VBox root = new VBox(20, imageView, label);
             root.setAlignment(Pos.CENTER);
 
